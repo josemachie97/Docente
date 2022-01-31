@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+body{
+/* 	background-image: url("/img/logo.png"); */
+/* 	background-repeat: no-repeat; */
+/* 	background-position: center; */
+/* 	background-size:cover; */
+/* 	display: flex; */
+/* 	width: 30%; */
+/* 	height: 100vh; */
+/* 	align-items: center; */
+/* 	text-align: center; */
+/* 	justify-content: center; */
+/* 	margin: 0 auto; */
+/* 	padding: 20px 10px; */
+}
+
+.form{
+	
+	border: 1px solid #804000;
+/* 	height: 100vh; */
+	border-radius: 10px;
+	background-color: #ff8098;
+}
+
+.form-label{
+	color: #0000a0;
+/* 	font-size: 30px; */
+/* 	padding: 15px 10px; */
+}
+
+.form-control{
+/* 	padding: 20px 10px; */
+/* 	margim:0px 10px; */
+}
+
+.form p{
+	font-size:30px;
+	color: white;
+}
+
+.btn.btn-primary{
+	margin: 20px 10px;
+	font-size: 25px;
+	text-transform: uppercase;
+	
+}
